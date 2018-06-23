@@ -1,0 +1,1 @@
+All rights belong to A. Tanenbaum for writing the book Computer Networks. The source of all the summarized knowledge.
